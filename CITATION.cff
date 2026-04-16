@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Durian Yield ML: Interpretable XGBoost for GAP-Certified Durian Yield Prediction"
+authors:
+  - family-names: Phaiboontrirat
+    given-names: Jintawat
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Tsusaka
+    given-names: Takuji W.
+  - family-names: Himanshu
+    given-names: Shilpi
+  - family-names: Pramanik
+    given-names: Md
+version: "1.0.0"
+date-released: "2026-04-16"
+url: "https://github.com/<your-username>/durian-yield-ml-xgboost"
+license: MIT
+abstract: >
+  Python code for an interpretable XGBoost model predicting durian yield per
+  hectare for 393 GAP-certified farms in Chanthaburi Province, Thailand.
+  Includes leakage-free validation, SHAP analysis, feature ablation,
+  counterfactual scenario simulation, and district fixed-effects benchmarks.
+keywords:
+  - machine learning
+  - XGBoost
+  - SHAP
+  - durian
+  - agricultural economics
+  - climate change
+  - Thailand
