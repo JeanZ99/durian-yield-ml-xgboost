@@ -1,0 +1,5 @@
+block,features,n_features,mean_abs_shap_kg_ha,shap_share_percent
+management_inputs,totalwaterha; pesticidesha; gapscoreoverall; ipm; soilimprovement; pdt; training; extensionvisits; creditaccess,9,274.16708,18.238888
+orchard_structure,treeageyears; productivetreeha; productive_tree_share; plantmonthong; plantkradumthong; plantkanyao,6,986.9118,65.65403
+farmer_characteristics,experienceyears; education; age; familymember; groupmember,5,185.4403,12.336365
+soil_context,ph; om; p; k; ec; soilfertilityindex,6,56.68155,3.7707238

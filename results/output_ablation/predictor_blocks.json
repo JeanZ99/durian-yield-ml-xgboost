@@ -1,0 +1,43 @@
+{
+    "management_inputs": [
+        "totalwaterha",
+        "water_per_productive_tree",
+        "totalfertha",
+        "fertilizer_per_productive_tree",
+        "totalorgfertha",
+        "organic_fertilizer_per_productive_tree",
+        "pesticidesha",
+        "ipm",
+        "soilimprovement",
+        "pdt",
+        "creditaccess",
+        "training",
+        "extensionvisits",
+        "gapscoreoverall"
+    ],
+    "orchard_structure": [
+        "treeageyears",
+        "treedensityha",
+        "productivetreeha",
+        "productive_tree_share",
+        "plantmonthong",
+        "plantkradumthong",
+        "plantkanyao"
+    ],
+    "farmer_characteristics": [
+        "experienceyears",
+        "education",
+        "age",
+        "familymember",
+        "groupmember"
+    ],
+    "soil_context": [
+        "ph",
+        "om",
+        "n",
+        "p",
+        "k",
+        "ec",
+        "soilfertilityindex"
+    ]
+}

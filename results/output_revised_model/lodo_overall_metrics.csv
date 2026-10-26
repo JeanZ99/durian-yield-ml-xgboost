@@ -1,0 +1,2 @@
+specification,n,r2,rmse_kg_ha,mae_kg_ha
+"Full revised XGBoost (33 predictors), LODO",389,0.9673059781637376,257.8066697885947,193.7054383736343

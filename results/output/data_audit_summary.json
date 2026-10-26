@@ -1,0 +1,10 @@
+{
+    "n_observations": 393,
+    "n_districts": 10,
+    "temperature_variable": "tempgrow",
+    "overall_unique_temperature_values": 1,
+    "overall_min_temperature_c": 29.6,
+    "overall_max_temperature_c": 29.6,
+    "farms_with_valid_yield": 393,
+    "farms_with_valid_water_per_productive_tree": 393
+}
